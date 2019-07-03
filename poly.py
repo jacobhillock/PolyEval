@@ -3,7 +3,7 @@ Author: Jacob Hillock
 email: jacobhillock@gmail.com
 
 semver versioning - https://semver.org
-version: 0.1.0
+version: v1.0.0-alpha0
 
 This python def takes in a string of a polynomial, a given precision, and
 kwargs of the expression's variables.
